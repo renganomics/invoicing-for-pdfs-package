@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: invoicing_for_pdfs
+Version: 1.0.0
+Summary: This is my package for converting Excel invoices to PDF invoices. It is an example of package creation from Ardit Sulce's course. Enjoy!
+Home-page: https://github.com/renganomics
+Author: Orengasi Bassey
+Author-email: orengasi@gmail.com
+License: MIT
+Keywords: invoice,excel,pdf
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Requires-Dist: pandas
+Requires-Dist: fpdf
+Requires-Dist: openpyxl
